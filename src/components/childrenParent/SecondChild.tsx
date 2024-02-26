@@ -2,7 +2,7 @@ import React from 'react'
 
 const SecondChild = () => {
   return (
-    <div>SecondChild</div>
+    <div>SecondChild is acting as a prop</div>
   )
 }
 

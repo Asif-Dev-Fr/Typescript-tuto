@@ -10,6 +10,10 @@ export default function Home() {
         <Button link='1-props-example' color='orange' text="Props" />
         <Button link='2-children-prop-example' color='teal' text="Chidren Props" />
         <Button link='3-event-example' color='yellow' text="Events" />
+        <Button link='4-usestate-example' color='lime' text="Usestate" />
+        <Button link='5-usecontext-example' color='black' text="Usecontext" textColor='white' />
+        <Button link='6-useref-example' color='lightblue' text="Useref" />
+
       </div>
 
       <div className={styles.center}>
